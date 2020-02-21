@@ -1,0 +1,11 @@
+.*
+!.gitignore
+data
+dump
+docs
+test
+*.jar
+*.pdf
+*.log
+*.tmp
+*.d.ts
